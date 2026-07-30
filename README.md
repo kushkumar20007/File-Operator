@@ -147,21 +147,9 @@ This prevents the application from crashing due to invalid file operations or us
 
 ---
 
-## Sample Output File (`journal.txt`)
-
-```text
-===== PERSONAL JOURNAL =====
-
-[2026-07-29 23:50:12]
-Today I learned Python OOP.
-----------------------------------------
-
-[2026-07-30 08:10:45]
-Started working on my file handling project.
-----------------------------------------
-```
-
----
+##  Output 
+<img width="1285" height="789" alt="image" src="https://github.com/user-attachments/assets/d21bc24a-a3ba-41ee-8abd-e1e8f06dbad1" />
+<img width="1280" height="631" alt="image" src="https://github.com/user-attachments/assets/326af520-c088-4bf0-a5a1-ec41b20c3c19" />
 
 ## Future Improvements
 
