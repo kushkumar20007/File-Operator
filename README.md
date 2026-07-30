@@ -176,10 +176,3 @@ This project is created for **educational and learning purposes**. Feel free to 
 
 ---
 
-### Save this file as:
-
-```text
-README.md
-```
-
-Place it in the same folder as `journal_manager.py` and it will automatically be recognised by **GitHub** and **VS Code** as the project documentation.
