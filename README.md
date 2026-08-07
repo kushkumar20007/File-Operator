@@ -132,6 +132,9 @@ except PermissionError:
 ```
 
 ---
+## 🎥 Video Demonstration
+
+[![Watch Video](https://img.shields.io/badge/🎥-Watch_Video-red?style=for-the-badge)](video)
 
 ## 🕒 Sample Output
 
