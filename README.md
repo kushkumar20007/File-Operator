@@ -134,7 +134,7 @@ except PermissionError:
 ---
 ## 🎥 Video Demonstration
 
-[![Watch Video](https://img.shields.io/badge/🎥-Watch_Video-red?style=for-the-badge)(https://drive.google.com/file/d/1lruaJqkeEnovWggsGcrPNigPpxcpsL4L/view?usp=sharing))
+[![Watch Video](https://img.shields.io/badge/🎥-Watch_Video-red?style=for-the-badge)](https://drive.google.com/file/d/1lruaJqkeEnovWggsGcrPNigPpxcpsL4L/view?usp=sharing))
 
 ## 🕒 Sample Output
 
